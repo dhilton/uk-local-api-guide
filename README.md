@@ -13,11 +13,18 @@ available and used by localgov.
 * Property API's
 * Geographical standards (GIS)
 
+* Benchmarking
+  * LG Inform API
+  
+* Local information
+  * PinPoint (Devon County Council) community services directory https://www.pinpointdevon.co.uk - API available for developers
+
 
 * Service areas
   * Streetworks / Roadworks
   * Education
   * Health & Socialcare
+    * CQC API (social care provision)
   * Public Protection
     * Food safety
     * HMO licensing
