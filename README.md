@@ -58,6 +58,10 @@ available and used by localgov.
 * SIF (uk locale) [https://www.sifassociation.org/Specification/Pages/United-Kingdom.aspx]
 * Schools register from DFES:
 
+* DFE Eligibility checker:
+  - Allows a Local Authority to check programmatically whether a child is eligibile for free school meals, whether a parent has correctly applied for the upcoming 30 hours of free childcare a month and whether a child is eligible for funded early learning for two year olds. 
+  - Documentation link: https://khub.net/group/dfe-ecs-community/
+
 ### Health & Socialcare
 
 * FHIR Personal Health Record https://www.hl7.org/fhir/
