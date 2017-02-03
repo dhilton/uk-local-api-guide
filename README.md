@@ -66,3 +66,9 @@ available and used by localgov.
 
 * FHIR Personal Health Record https://www.hl7.org/fhir/
 *
+
+
+### Waste & Recycling
+
+* WasteDataFlow http://www.wastedataflow.org/import/developer/developer.aspx - reporting system for DEFRA for local authorities to report volumes of waste collected and the waste trail. XML file upload. Excel spreadsheet with macros that
+generates the xml is useful for testing.
