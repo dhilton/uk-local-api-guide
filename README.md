@@ -34,6 +34,11 @@ available and used by localgov.
   * Housing
 
 
+### Property api's
+
+* New local land charges API (Not live yet) - Local authorities need to integrate with the Land Registry to initially migrate their local land charges data and then maintain new applications in the central register (a gov.uk register).
+  * https://github.com/LandRegistry/llc-api 
+
 ### Streetworks / Roadworks
 
 * EToN: electronic transfer of notice, used by anyone wanting to exchange information about streetworks. [https://www.gov.uk/government/publications/street-works-technical-specification-for-electronic-transfer-of-noticing]
