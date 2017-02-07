@@ -72,6 +72,12 @@ available and used by localgov.
 * FHIR Personal Health Record https://www.hl7.org/fhir/
 *
 
+### Public protection
+ * Food Safety
+   * Food Hygiene reports are uploaded to central system via a portal in a CSV data format.
+   * Food inspection certificates are to be generated locally inline with current brand guidelines.
+   * General guidance is contained in this pdf: https://www.food.gov.uk/sites/default/files/multimedia/pdfs/enforcement/fhrs-it-system-guidance.pdf
+
 
 ### Waste & Recycling
 
